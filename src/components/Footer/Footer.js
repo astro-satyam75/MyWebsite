@@ -14,16 +14,16 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
-        <CompanyContainer><a style={{ alignItems:'end'}}>
+        <CompanyContainer>
       <SocialIcons href='https://github.com/astro-satyam75?tab=repositories'>
         <AiFillGithub size='3rem'/>
       </SocialIcons>
       <SocialIcons href='https://www.linkedin.com/in/satyam-anand83/'>
         <AiFillLinkedin size='3rem'/>
       </SocialIcons>
-      <SocialIcons href='https://www.instagram.com/astr0_satyam75'>
+      <SocialIcons href='https://www.instagram.com/astro_satyam75'>
         <AiFillInstagram size='3rem'/>
-      </SocialIcons></a>
+      </SocialIcons>
         </CompanyContainer>
       </SocialIconsContainer>
     </FooterWrapper>
