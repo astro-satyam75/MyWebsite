@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "font-family: 'JetBrains Mono', monospace;",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 15
+}
