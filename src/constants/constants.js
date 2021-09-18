@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://github.com/astro-satyam75/Credit-Risk-Analysis-using-ML-models', 
     id: 0,
   },
+  {
+    title: 'Portfolio Website',
+    description: "Professional portfolio website which is completely responsive across all devices.",
+    image: '/images/02.gif',
+    tags: ['ReactJS', 'HTML5', 'CSS'],
+    source: 'https://github.com/astro-satyam75/MyWebsite',
+    visit: 'https://github.com/astro-satyam75/MyWebsite', 
+    id: 1,
+  },
   
 ];
 
@@ -15,6 +24,7 @@ export const TimeLineData = [
   { year: '2017 - 2021', text: "Graduated with Bachelor's of Technology in Electronics and Communication Engineering", },
   { year: 'Feb 2020 - August 2020', text: 'Worked as an Embedded Systems Intern at Aerogram Pvt Ltd, IIT Delhi', },
   { year: 'July 2020 - August 2020', text: 'Worked as an Avionics Intern at Space Technology and Aeronautical Rocketry, Surat', },
+  { year: 'August 2021 - September 2020', text: 'Worked as an Avionics Engineer at Space Technology and Aeronautical Rocketry, Surat', },
   { year: 'August 2021', text: 'Started working as an Electronics Engineer with Indian Amateur Space Association', },
   
 ];
