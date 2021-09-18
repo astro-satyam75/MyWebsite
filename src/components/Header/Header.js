@@ -34,15 +34,7 @@ const Header = () =>  (
       
     </Div2>
     <Div3>
-      <SocialIcons href='https://github.com/astro-satyam75?tab=repositories'>
-        <AiFillGithub size='3rem'/>
-      </SocialIcons>
-      <SocialIcons href='https://www.linkedin.com/in/satyam-anand83/'>
-        <AiFillLinkedin size='3rem'/>
-      </SocialIcons>
-      <SocialIcons href='https://www.instagram.com/astr0_satyam75'>
-        <AiFillInstagram size='3rem'/>
-      </SocialIcons>
+    <Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>RESUME</a></Button>
     </Div3>
   </Container>
 );

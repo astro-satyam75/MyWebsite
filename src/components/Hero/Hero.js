@@ -18,7 +18,7 @@ const Hero = () => (
       </SectionTitle>
      <br/>
       {/*<Button onClick={() =>window.location = 'https://www.stackoverflow.com'}>DOWNLOAD RESUME</Button>-*/}
-    <Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>DOWNLOAD RESUME</a></Button>
+    
     </LeftSection>
   </Section>
 );
