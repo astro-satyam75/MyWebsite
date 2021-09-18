@@ -5,6 +5,7 @@ import { DiCssdeck } from 'react-icons/di';
 import { BsPersonSquare } from 'react-icons/bs';
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 import { Button_project,Button_tech,Button_about } from './HeaderStyles';
+import Button from '../../styles/GlobalComponents/Button';
 
 const Header = () =>  (
   <Container>
@@ -33,8 +34,8 @@ const Header = () =>  (
       </li>
       
     </Div2>
-    <Div3>
-    <Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>RESUME</a></Button>
+    <Div3><Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>DOWNLOAD RESUME</a></Button>
+      
     </Div3>
   </Container>
 );
