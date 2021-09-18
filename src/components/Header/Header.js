@@ -34,7 +34,7 @@ const Header = () =>  (
       </li>
       
     </Div2>
-    <Div3><Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>DOWNLOAD RESUME</a></Button>
+    <Div3><Button ><a href="./Resume.pdf" download  style={{ color: 'white' }}>RESUME</a></Button>
       
     </Div3>
   </Container>
